@@ -1,4 +1,2 @@
 #!/bin/bash
-
 current_directory= $(pwd)
-echo "absolute path if the current working directory': $current_directory"
